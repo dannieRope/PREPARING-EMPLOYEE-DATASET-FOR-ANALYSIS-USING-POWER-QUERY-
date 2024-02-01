@@ -122,7 +122,7 @@ Advance Editor and Steps applied
 ![mcode and steps applied](https://github.com/dannieRope/PREPARING-EMPLOYEE-DATASET-FOR-ANALYSIS-USING-POWER-QUERY-/assets/132214828/694b945d-a5a4-4490-80cd-09905feab695)
 
 
-Find the clean data [here]()
+Find the clean data [here](Cleaning+MessyEmpData.xlsx)
 
 
 ![image](https://github.com/dannieRope/PREPARING-EMPLOYEE-DATASET-FOR-ANALYSIS-USING-POWER-QUERY-/assets/132214828/a05c5128-e4b1-4a71-86e5-e73671fc7995)
